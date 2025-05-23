@@ -1,6 +1,6 @@
 
 Building a modern datawarehouse with SQL server, including ETL processes, data modeling and analytics.
-# 🏗️ Modern Data Warehouse Project – Medallion Architecture (Reused Sales Data)
+# Modern Data Warehouse Project – Medallion Architecture (Reused Sales Data)
 
 ## 📖 Project Overview
 
