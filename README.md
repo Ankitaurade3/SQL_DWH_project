@@ -42,6 +42,7 @@ This project demonstrates the implementation of a modern data warehouse using **
   - Regional and temporal sales trends
 
 ---
+<img width="1196" alt="image" src="https://github.com/user-attachments/assets/289337e8-5fe8-4033-b2d3-a48109d070bb" />
 
 ## 🛠️ Tools & Technologies
 
